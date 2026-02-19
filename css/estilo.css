@@ -1,0 +1,36 @@
+h1{
+    background-color: yellow;
+    color: red;
+    padding: 20px;
+    border: 10px;
+    border-style: groove;
+    border-color: black;
+    margin: 30px;
+
+}
+h2{
+    background: linear-gradient(130deg, #f8f8f8, #b700ff90);
+    color: blue;
+    margin: 20px;
+    padding: 20px;
+    border: 10px;
+    border-style: dashed;
+    border-color: brown;
+}
+p{
+    background-color: chartreuse;   
+    color: blue;
+    font-family: Georgia;
+    margin: 20px;
+    padding: 20px;
+    border: 10px;
+    border-style: dashed;
+    border-color: brown;
+}
+img{
+    width: 150px;
+    height: 150px;
+}
+body{
+    background: linear-gradient(130deg, #509fc9, #e83b59);
+}
